@@ -1,7 +1,5 @@
 def fibonacci(n):
     a, b = 0, 1
-    
-    # Lambda function to get the next Fibonacci number
     next_term = lambda x, y: x + y
     
     for i in range(n):
