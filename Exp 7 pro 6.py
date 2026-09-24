@@ -1,5 +1,3 @@
-# Find the ratio of positive, negative and zero numbers
-
 numbers = [1, -2, 0, 3, -4, 0, 5, -6, 7, 0]
 
  
